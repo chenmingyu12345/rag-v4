@@ -1,0 +1,14 @@
+# Artificial Intelligence
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.
+
+# Machine Learning
+Machine learning is a subset of artificial intelligence that gives computers the ability to learn without being explicitly programmed. Machine learning algorithms use historical data as input to predict new output values.
+
+# Deep Learning
+Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers to learn from data. It is particularly effective for tasks such as image recognition, natural language processing, and speech recognition.
+
+# Natural Language Processing
+Natural language processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. The goal of NLP is to enable computers to understand, interpret, and generate human language in a way that is both meaningful and useful.
+
+# Computer Vision
+Computer vision is a field of artificial intelligence that enables computers to interpret and understand the visual world. It uses digital images from cameras and videos and deep learning models to accurately identify and classify objects, and then react to what they "see".
